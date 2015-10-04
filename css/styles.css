@@ -1,0 +1,25 @@
+html, body { background: url(../img/bkgd.jpg) no-repeat;
+    background-size: cover; font-size: 16px; text-align: center; font-family: 'Lilita One', cursive;
+
+}
+
+#demo {
+font-size: 2em;
+}
+
+button {background: none; 
+border: 2px solid; 
+font-size: 2em;
+font-family: 'Lilita One', cursive;
+text-transform: uppercase;
+color: #000;}
+
+h1 {font-size: 3em; text-transform: uppercase; padding: 15px;padding-top: 100px; }
+
+@media (min-width:768px) {
+	
+}
+ 
+@media (min-width:940px) {
+	
+}
